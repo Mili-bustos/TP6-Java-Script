@@ -1,0 +1,61 @@
+body {
+    background: #f4f4f4;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+  
+h1 {
+    text-align: center;
+}
+  
+h2 {
+    text-align: center;
+}
+  
+form {
+    text-align: center;
+    margin-bottom: 20px;
+    background: #fff;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+  
+input {
+    padding: 8px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+  
+button {
+    padding: 8px 15px;
+    margin: 5px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.tareas {
+    background: #fff;
+    margin: 10px auto;
+    padding: 15px;
+    border-radius: 8px;
+    width: 70%;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    line-height: 1.6;
+    text-align: left;
+}
+
+.completada {
+    background: #c8e6c9;
+}
